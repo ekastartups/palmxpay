@@ -1,2 +1,2 @@
 # palmxpay
-tokenised remittance with blockchain
+Tokenised Remittances with blockchain platform
